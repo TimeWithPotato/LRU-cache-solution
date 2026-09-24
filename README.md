@@ -1,6 +1,6 @@
-# LRU Cache (C++)
+# Vecosoft Assessment - Task 2: LRU Cache
 
-This is my solution for Task 2 - LRU Cache. It is a Least Recently Used (LRU) cache written in C++
+This is my solution for Task 2 - LRU Cache using C++. It is a Least Recently Used (LRU) cache written in C++
 that supports `get(key)` and `put(key, value)` in O(1) average time.
 I also implemented the optional TTL (expiration) bonus.
 
